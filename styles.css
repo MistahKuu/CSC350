@@ -12,7 +12,7 @@ header {
 }
 
 .main-header{
-    background-image: url(images/360_F_339060225_w8ob8LjMJzPdEqD9UFxbE6ibcKx8dFrP.jpg);
+    background-image: url(360_F_339060225_w8ob8LjMJzPdEqD9UFxbE6ibcKx8dFrP.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -22,7 +22,7 @@ header {
 }
 
 .main-header-u{
-    background-image: url(images/istockphoto-1415366998-640x640.jpg);
+    background-image: url(istockphoto-1415366998-640x640.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -61,7 +61,7 @@ nav a:hover {
     justify-content: space-between;
     max-width: 1300px;
     margin: 10px auto;
-    background-image: url(images/D6IxN.png);
+    background-image: url(D6IxN.png);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
